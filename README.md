@@ -31,13 +31,15 @@
 <a href="https://github.com/vaib-p">
   <img height="180" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api?username=vaib-p&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
 </a>
-
-<br/>
 </p>
-### Top Repositories:
+<br/>
 
+### Top Repositories:
+<br/>
+<p align="center">
 <a href="https://github.com/vaib-p/LGMVIP-DataScience">
   <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=LGMVIP-DataScience&theme=radical" />
 </a>
 <a href="https://github.com/vaib-p/TextUtils">
   <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=TextUtils&theme=radical" />
+</p>

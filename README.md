@@ -24,7 +24,7 @@
 </p>
 
 <br/>
-
+<p align="center">
 <a href="https://github.com/vaib-p">
   <img height="180" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaib-p&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
 </a>
@@ -33,7 +33,7 @@
 </a>
 
 <br/>
-
+</p>
 ### Top Repositories:
 
 <a href="https://github.com/vaib-p/LGMVIP-DataScience">

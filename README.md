@@ -9,12 +9,12 @@
 <p align="center">
     <img src="./html.svg" width="50" height="50"></img>
     <img src="./css.svg" width="50" height="50"></img>
-    <img src="./tailwindcss.svg" width="50" height="50"></img>
+    
     <img src="./javascript.svg" width="50" height="50"></img>
     <img src="./react.svg" width="50" height="50"></img>
-    <img src="./nodejs.svg" width="50" height="50"></img>
+   
     <img src="./mongodb.svg" width="50" height="50"></img>
-    <img src="./npm.svg" width="50" height="50"></img>
+  
     <img src="./python.svg" width="50" height="50"></img>
     <img src="./c.svg" width="50" height="50"></img>
     <img src="./cpp.svg" width="50" height="50"></img>

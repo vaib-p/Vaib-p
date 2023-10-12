@@ -7,9 +7,20 @@
 <h3 align="center">Languages and Tools :</h3>
 
 <p align="center">
-    <img src="./assets/html.svg" width="50" height="50">
-    <img src="./assets/css.svg" width="50" height="50">
-    <!-- Add more icons for your preferred languages and tools here -->
+    <img src="./html.svg" width="50" height="50"></img>
+    <img src="./css.svg" width="50" height="50"></img>
+    <img src="./tailwindcss.svg" width="50" height="50"></img>
+    <img src="./javascript.svg" width="50" height="50"></img>
+    <img src="./react.svg" width="50" height="50"></img>
+    <img src="./nodejs.svg" width="50" height="50"></img>
+    <img src="./mongodb.svg" width="50" height="50"></img>
+    <img src="./npm.svg" width="50" height="50"></img>
+    <img src="./python.svg" width="50" height="50"></img>
+    <img src="./c.svg" width="50" height="50"></img>
+    <img src="./cpp.svg" width="50" height="50"></img>
+    <img src="./git.svg" width="50" height="50"></img>
+    <img src="./flask.svg" width="50" height="50"></img>
+    <img src="./vscode.svg" width="50" height="50"></img>
 </p>
 
 <br/>

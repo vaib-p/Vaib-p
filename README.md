@@ -1,16 +1,32 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://github.com/vaib-p">
+    <img width="100%" alt="Hello, I'm vaibhav pawar" src="./assets/banner.png" />
+  </a>
+</p>
 
-<!--
-**vaib-p/Vaib-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Languages and Tools :</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+    <img src="./assets/html.svg" width="50" height="50">
+    <img src="./assets/css.svg" width="50" height="50">
+    <!-- Add more icons for your preferred languages and tools here -->
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<a href="https://github.com/vaib-p">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaib-p&show_icons=true&locale=en&layout=compact&theme=radical&hide=html,css,scss,jupyter%20notebook&langs_count=10" />
+</a>
+<a href="https://github.com/your-username">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=vaib-p&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
+</a>
+
+<br/>
+
+### Top Repositories:
+
+<a href="https://github.com/vaib-p/LGMVIP-DataScience">
+  <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=LGMVIP-DataScience&theme=radical" />
+</a>
+<a href="https://github.com/vaib-p/TextUtils">
+  <img height="135" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=TextUtils&theme=radical" />

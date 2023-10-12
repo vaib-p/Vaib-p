@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vaib-p">
-    <img width="100%" alt="Hello, I'm vaibhav pawar" src="./banner.png" />
+    <img width="100%" alt="Hello, I'm vaibhav pawar" src="./baner.png" />
   </a>
 </p>
 

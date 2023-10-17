@@ -39,4 +39,6 @@
 </a>
 <a href="https://github.com/vaib-p/TextUtils">
   <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=TextUtils&theme=radical" />
+<a href="https://github.com/vaib-p/Bank-of-Interns">
+  <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=Bank-of-Interns&theme=radical" />
 </p>

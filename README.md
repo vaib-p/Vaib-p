@@ -1,6 +1,6 @@
 <p align="center"> <a href="https://github.com/vaib-p"> <img width="100%" alt="Hello, I'm Vaibhav Pawar" src="./baner.png" /> </a> </p> <h2 align="center">👋 Hi there! I'm Vaibhav Pawar</h2> <p align="center">A passionate developer with a focus on backend development, web technologies, and data science. Constantly learning and building innovative solutions.</p>
 
-<h3 align="center">Languages and Tools :</h3>
+
 
 <h3 align="center">🔧 Languages and Tools:</h3>
 <p align="center">
@@ -10,8 +10,6 @@
     <img src="./react.svg" width="50" height="50" alt="React">
     <img src="./mongodb.svg" width="50" height="50" alt="MongoDB">
     <img src="./python.svg" width="50" height="50" alt="Python">
-    <img src="./c.svg" width="50" height="50" alt="C">
-    <img src="./cpp.svg" width="50" height="50" alt="C++">
     <img src="./java.svg" width="50" height="50" alt="Java">
     <img src="./spring.svg" width="50" height="50" alt="Spring">
     <img src="./golang.svg" width="50" height="50" alt="Golang">

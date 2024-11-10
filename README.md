@@ -33,6 +33,20 @@
 </a>
 <a href="https://github.com/vaib-p/TextUtils">
   <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=TextUtils&theme=radical" />
+</a>
 <a href="https://github.com/vaib-p/Bank-of-Interns">
   <img height="135" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=Bank-of-Interns&theme=radical" />
+</a>
+<a href="https://github.com/vaib-p/V-Library">
+  <img height="135" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=V-Library&theme=radical" />
+</a>
+<a href="https://github.com/vaib-p/Stocks-LookUp-App">
+  <img height="135" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=Stocks-LookUp-App&theme=radical" />
+</a>
+<a href="https://github.com/vaib-p/apparel-submission-platform">
+  <img height="135" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=apparel-submission-platform&theme=radical" />
+</a>
+<a href="https://github.com/vaib-p/eccome-by-InternsLab">
+  <img height="135" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=eccome-by-InternsLab&theme=radical" />
+</a>
 </p>

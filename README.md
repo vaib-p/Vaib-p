@@ -11,8 +11,8 @@
     <img src="./mongodb.svg" width="50" height="50" alt="MongoDB">
     <img src="./python.svg" width="50" height="50" alt="Python">
     <img src="./java.svg" width="50" height="50" alt="Java">
-    <img src="./spring.svg" width="50" height="50" alt="Spring">
-    <img src="./golang.svg" width="50" height="50" alt="Golang">
+    <img src="./32px-Spring_Boot.svg.png" width="50" height="50" alt="Spring">
+    <img src="./go.svg" width="50" height="50" alt="Golang">
     <img src="./git.svg" width="50" height="50" alt="Git">
     <img src="./flask.svg" width="50" height="50" alt="Flask">
     <img src="./vscode.svg" width="50" height="50" alt="VSCode">

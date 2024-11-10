@@ -16,21 +16,13 @@
     <img src="./git.svg" width="50" height="50" alt="Git">
     <img src="./flask.svg" width="50" height="50" alt="Flask">
     <img src="./vscode.svg" width="50" height="50" alt="VSCode">
-    <img src="./androidstudio.svg" width="50" height="50" alt="Android Studio">
+    <img src="./64px-Android_Studio_Icon_3.6.svg.png" width="50" height="50" alt="Android Studio">
 </p>
  src="./vscode.svg" width="50" height="50"></img>
 </p>
 
 <br/>
-<p align="center">
-<a href="https://github.com/vaib-p">
-  <img height="180" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibp&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" />
-</a>
-
-<a href="https://github.com/vaib-p">
-  <img height="180" width="45%"  align="center" src="https://github-readme-stats.vercel.app/api?username=vaib-p&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" />
-</a>
-</p>
+<h3 align="center">📊 GitHub Stats:</h3> <p align="center"> <a href="https://github.com/vaib-p"> <img height="180" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaib-p&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10" alt="Top Languages" /> </a> <a href="https://github.com/vaib-p"> <img height="180" width="45%" align="center" src="https://github-readme-stats.vercel.app/api?username=vaib-p&show_icons=true&locale=en&theme=radical&private_count=true&rank_icon=github" alt="GitHub Stats" /> </a> </p>
 <br/>
 
 ### Top Repositories:

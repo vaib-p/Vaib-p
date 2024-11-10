@@ -50,3 +50,5 @@
   <img height="135" width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vaib-p&repo=eccome-by-InternsLab&theme=radical" />
 </a>
 </p>
+📫 Connect with Me:
+<p align="center"> <a href="https://linkedin.com/in/vaib-p"><img src="./linkedin.svg" width="40" height="40" alt="LinkedIn"></a> <a href="mailto:your-email@example.com"><img src="./email.svg" width="40" height="40" alt="Email"></a> <a href="https://github.com/vaib-p"><img src="./github.svg" width="40" height="40" alt="GitHub"></a> </p>
